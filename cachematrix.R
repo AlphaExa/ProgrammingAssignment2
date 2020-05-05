@@ -1,5 +1,5 @@
 # This script includes a pair of functions that compute the inverse of a matrix and store it as a cache.
-# Caching the solution is beneficial for repeated usage.
+# Caching the inverse is  beneficial for repeated usage as computing the inverse is costly especially for large matrix.
 
 
 ## makeCacheMatrix: This function creates a list of 4 functions for storing matrix and preparing to cache the inverse.
